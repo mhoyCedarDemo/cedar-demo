@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 django = "*"
 docker = "*"
-psycopg2-binary = "*"
 
 [dev-packages]
 
