@@ -4,9 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-gunicorn = "==20.1.0"
-psycopg2-binary = "==2.9.2"
-Django = "==3.2.12"
+gunicorn = "*"
+django = "*"
+docker = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
